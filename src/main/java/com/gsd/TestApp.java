@@ -9,11 +9,9 @@ public class TestApp {
 
 
         //TODO Print your name like this "Name: Vahid Alizadeh"
-        System.out.println("Name: Viviana Flores");
+        System.out.println("Name: Calvin Au");
 
-        System.out.println("Name: Ali Azfar");
 
-        System.out.println("Name: Ray Bartlett");
 
     }
 }
